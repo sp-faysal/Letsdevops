@@ -14,7 +14,7 @@ on:
       workflow2_github_account:
         description: 'GitHub Account Owner'
         required: true
-        default: 'sumitraj0103'
+        default: 'sp-faysal'
       
       workflow2_repo_github:
         description: 'GitHub Repository Name'
